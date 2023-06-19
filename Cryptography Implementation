@@ -14,6 +14,8 @@ Key Contributions:
 - Documented the design decisions, algorithms used, and integration details to facilitate understanding and future maintenance of the implemented cryptography modules.
 - Educated team members and stakeholders on the importance of cryptography in protecting sensitive data and maintaining the overall security of applications or systems.
 
+
+
 Technologies and Tools:
 - Cryptographic Algorithms: AES, RSA, Diffie-Hellman, Elliptic Curve Cryptography (ECC)
 - Cryptographic Libraries: OpenSSL, Cryptography.io, Bouncy Castle
